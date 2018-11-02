@@ -1,1 +1,1 @@
-web: python3 getupdate.py
+web: python getupdate.py
